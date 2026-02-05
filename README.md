@@ -10,7 +10,7 @@ Curriculum Learning (CL) is a training strategy inspired by how humans learn—s
 
 ### 📂 Slides
 
-- [Curriculum Graph Machine Learning](../Curriculum%20Graph%20Machine%20Learning.pdf)
+- [Curriculum Graph Machine Learning](Slides/Curriculum%20Graph%20Machine%20Learning.pdf)
 
 ### 💻 Colab Notebook
 
