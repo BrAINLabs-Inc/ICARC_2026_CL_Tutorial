@@ -9,15 +9,16 @@ Curriculum Learning (CL) is a training strategy inspired by how humans learn—s
 ## � Workshop Agenda
 
 | Start Time | End Time | Duration | Topic | Presenter |
-|:-----------|:---------|:--------:|:------|:----------|
+|------------|----------|----------|-------|-----------|
 | 9:00 AM | 9:05 AM | 5 mins | Introduce the speakers | Dr. Dharshana Kasturirathna |
-| 9:05 AM | 10:35 AM | 30 mins | Introduction to Curriculum Learning | Ms. Savini Kommalage |
-| 10:35 AM | 11:05 AM | 30 mins | Curriculum Learning Theory | Mr. Sanka Mohottala |
-| 11:05 AM | 11:25 AM | 20 mins | Curriculum Learning with Computer Vision | Mr. Asiri Gawesha |
-| 11:25 AM | 11:45 AM | 20 mins | Curriculum Learning with NLP | Mr. Menan Velayuthan |
-| 11:45 AM | 12:05 PM | 20 mins | Curriculum Learning with Graph Neural Networks | Mr. Dulara Madusanka |
-| 12:05 PM | 12:25 PM | 20 mins | Predefined model-based Curriculum by Smoothing - Hands-on Session | Ms. Savini Kommalage |
-| 12:25 PM | 12:30 PM | 5 mins | Concluding the session | Dr. Mahima Weerasinghe |
+| 9:05 AM | 9:35 AM | 30 mins | Introduction to Curriculum Learning | Ms. Savini Kommalage |
+| 9:35 AM | 10:05 AM | 30 mins | Curriculum Learning Theory | Mr. Sanka Mohottala |
+| 10:05 AM | 10:35 AM | 30 mins | Hands-on Session: Curriculum Design and Implementation | Ms. Savini Kommalage |
+| 10:35 AM | 10:55 AM | 20 mins | Curriculum Learning with Computer Vision | Mr. Asiri Gawesha |
+| 10:55 AM | 11:15 AM | 20 mins | Curriculum Learning with NLP | Mr. Menan Velayuthan |
+| 11:15 AM | 11:35 AM | 20 mins | Curriculum Learning with Graph Neural Networks | Mr. Dulara Madusanka |
+| 11:35 AM | 12:05 PM | 30 mins | Hands-on Session: Curriculum Learning with Graphs | Mr. Dulara Madusanka |
+| 12:05 PM | 12:10 PM | 5 mins | Concluding the session | Dr. Mahima Weerasinghe |
 
 ## �📌 Tutorial Resources
 
