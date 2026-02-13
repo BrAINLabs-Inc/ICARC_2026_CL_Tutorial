@@ -24,8 +24,11 @@ Curriculum Learning (CL) is a training strategy inspired by how humans learn—s
 
 | Resource Type | Description | Link |
 |:--------------|:------------|:-----|
+| 📂 Slides |  Introduction to Curriculum Learning | [View PDF](Slides/ICARC_2026_Introduction%20to%20Curriculum%20Learning.pdf) |
+| 💻 Colab Notebook | CLNode: Curriculum Learning for Node Classification - Hands-on Session [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UZQGr3dm1ppyxw_x99zmN93oaCBX18yt?usp=sharing) |
 | 📂 Slides | Curriculum Graph Machine Learning | [View PDF](Slides/Curriculum%20Graph%20Machine%20Learning.pdf) |
 | 💻 Colab Notebook | CLNode: Curriculum Learning for Node Classification - Hands-on Session | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CMPLFOzsVcJPz2TE6CcRMtClmNC81aRL) |
+
 
 > 📌 **Note:** The Colab notebook is designed to run standalone and includes all necessary setup installations. We highly recommend running it in **Google Colab** for the best experience.
 
