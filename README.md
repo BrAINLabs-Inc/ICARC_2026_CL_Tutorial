@@ -14,7 +14,7 @@ Curriculum Learning (CL) is a training strategy inspired by how humans learn—s
 | 9:05 AM | 9:35 AM | 30 mins | Introduction to Curriculum Learning | Ms. Savini Kommalage |
 | 9:35 AM | 10:05 AM | 30 mins | Curriculum Learning Theory | Mr. Sanka Mohottala |
 | 10:05 AM | 10:35 AM | 30 mins | Hands-on Session: Curriculum Design and Implementation | Ms. Savini Kommalage |
-| 10:35 AM | 10:55 AM | 20 mins | Curriculum Learning with Computer Vision | Mr. Asiri Gawesha |
+| 10:35 AM | 10:55 AM | 20 mins | Modern Curriculum Learning in Computer Vision | Mr. Asiri Gawesha |
 | 10:55 AM | 11:15 AM | 20 mins | Curriculum Learning with NLP | Mr. Menan Velayuthan |
 | 11:15 AM | 11:35 AM | 20 mins | Curriculum Learning with Graph Neural Networks | Mr. Dulara Madusanka |
 | 11:35 AM | 12:05 PM | 30 mins | Hands-on Session: Curriculum Learning with Graphs | Mr. Dulara Madusanka |
@@ -26,6 +26,7 @@ Curriculum Learning (CL) is a training strategy inspired by how humans learn—s
 |:--------------|:------------|:-----|
 | 📂 Slides |  Introduction to Curriculum Learning | [View PDF](/Slides/ICARC_2026_Introduction.pdf) |
 | 📂 Slides |  Curriculum Learning Theory | [View PDF](/Slides/CL%session%2-%Sanka.pdf) |
+| 📂 Slides |  Modern Curriculum Learning in Computer Vision| [View PDF](/Slides/ICARC_2026%20slides%20-%20Modern%20Curriculum%20learning%20in%20CV.pdf) |
 | 📂 Slides |  Hands-on Session 1 | [View PDF](/Slides/Hands-On-Session%201%20(Shapes%20Classification%20with%20Curriculum%20Learning).pdf) |
 | 💻 Colab Notebook | Applying pre-defined curriculum learning to an image classification problem - Hands-on Session | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UZQGr3dm1ppyxw_x99zmN93oaCBX18yt?usp=sharing) |
 | 📂 Slides | Curriculum Graph Machine Learning | [View PDF](Slides/Curriculum%20Graph%20Machine%20Learning.pdf) |
